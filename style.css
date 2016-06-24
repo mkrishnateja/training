@@ -37,14 +37,6 @@
   color:white;
 }
 
-.header h1:hover{
-  color:#6c939F;
-}
-
-.header h1 a:hover{
-  font-size:20px;
-}
-
 .header img{
   width:60px;
   height:60px;
@@ -189,7 +181,7 @@ hr {
 }
 
 .section4{
-  padding-top:120px;
+  padding-top:20px;
   font-family: 'Open Sans', sans-serif;
 }
 .section5 img ,.section4 img{
@@ -225,17 +217,12 @@ hr {
   background-size: cover;
 }
 
-.section3 tr td:hover{
-
-background:#ccc;
-}
-
 .section3 tr td {
   border:1px  black;
 }
 
 .foot1{
-  padding-left:200px;
+   padding-left:200px;
   padding-top: 20px;
 }
 
@@ -268,27 +255,29 @@ background:#ccc;
   color:black;
 }
 
-.google:hover{
-  color:#d34836;
-}
 
-.fb:hover{
-  color:#3b5998;
-}
-
-.tweet:hover{
-  color:#1dcaff;
-}
-
-.linked:hover{
-  color:#0077b5;
-}
-
-.foot3 a{
+.foot1 a{
   text-decoration:none;
   color:black;
 }
 
-.copy{
-  padding-left:29px;
+.foot1 li{
+  display: inline;
+  padding-right:20px;
+  margin-left:0px;
+}
+
+.foot3{
+  padding-top:5px;
+}
+
+.foot3 strong{
+  font-size:20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.conthead{
+
+  padding-top:100px;
+  text-align: center;
 }
