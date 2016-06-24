@@ -41,7 +41,7 @@
   color:#6c939F;
 }
 
-.header a:hover{
+.header h1 a:hover{
   font-size:20px;
 }
 
@@ -49,12 +49,19 @@
   width:60px;
   height:60px;
 }
+
+}
+
+.section1 h1{
+  padding-top:120px;
+}
+
 .section1{
-  padding-top: 120px;
   font-family: 'Open Sans', sans-serif;
 }
 
 .section1 img{
+  padding-top:120px;
   height:168px;
   width: 300px;
   margin-bottom: 10px;
@@ -208,4 +215,21 @@ hr {
 
 .name{
   text-align:center;
+}
+
+.section2{
+  background-image: url(../img/sachin1.jpg);
+  height:100%;
+  width:100%;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.section3 tr td:hover{
+
+background:#ccc;
+}
+
+.section3 tr td {
+  border:1px  black;
 }
