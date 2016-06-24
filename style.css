@@ -234,17 +234,38 @@ background:#ccc;
   border:1px  black;
 }
 
-.foot p{
-  text-align:center;
+.foot1{
+  padding-left:200px;
+  padding-top: 20px;
 }
 
-.foot p a{
-  color:black;
+.foot1 h4{
+  font-size:25px;
+  color:white;
+  font-family: 'Open Sans', sans-serif;
 }
 
-.foot ul a{
-  color:black;
+.foot1 p{
+   font-size:15px;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.foot2 h4{
+  padding-top:22px;
+  padding-left: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.foot2 p{
+  font-size:15px;
+  padding-left: 20px;
+  font-family: 'Open Sans', sans-serif;
+  padding-top:5px;
+}
+
+.foot2 p a{
   text-decoration:none;
+  color:black;
 }
 
 .google:hover{
@@ -261,4 +282,13 @@ background:#ccc;
 
 .linked:hover{
   color:#0077b5;
+}
+
+.foot3 a{
+  text-decoration:none;
+  color:black;
+}
+
+.copy{
+  padding-left:29px;
 }
